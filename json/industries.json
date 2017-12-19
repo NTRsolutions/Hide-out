@@ -1,0 +1,663 @@
+{
+		"Chennai":[
+			{
+				"industry":"Ashok Leyland"
+
+			},
+			{
+
+				"industry":"Hindustan motors"
+			},
+			{
+				"industry":"TAFE Tractors"
+			},
+            {
+
+				"industry":"Apollo Tyres"
+			},
+             {
+
+				"industry":"Hyundai"
+			},
+             {
+
+				"industry":"Renault"
+			},
+             {
+                 "industry":"Nissan"
+            },
+            {
+                "industry":"Ford"   
+            },
+ 
+		
+			{
+				"industry":"Mitsubhishi"
+
+			},
+			{
+
+				"industry":"Dell"
+			},
+			{
+				"industry":"Wipro"
+			},
+            {
+
+				"industry":"Zebronics"
+			},
+             {
+
+				"industry":"Foxxcon"
+			},
+            {
+				"industry":"Pfizer"
+			}
+            
+            ],
+    
+    "Trichy":[
+			{
+				"industry":"BHEL"
+			},
+			{
+				"industry":"Trichy Steel Rolling Mills"
+			},
+            {
+				"industry":"Golden Rock Locomotive Workshops"
+			},
+            {
+				"industry":"Trichy Distelleries and chemical Ltd"
+			}
+            
+            ],
+
+    "Madurai":[
+			{
+				"industry":"Madurai - Sundaram Industries"
+			},
+			{
+				"industry":"TVS srichakra limited"
+			},
+       
+			{
+				"industry":"Honeywell Technologies"
+			},
+			{
+				"industry":"ZF Electronics TVS(INDIA)LTD"
+			},
+			{
+				"industry":"HCL"
+			},
+            {
+				"industry":"Sathyam"
+			},
+			{
+				"industry":"Sutherland Global Services"
+			},
+			{
+				"industry":"Thiagarajar mills"
+			}
+        
+            ],
+
+    "Kanchipuram":[
+            {
+				"industry":"JK Tyres &Ind.Ltd"
+			}
+        
+            ],
+
+	"Kanyakumari":[	
+			{
+				"industry":"Indian rare earths ltd"
+			},
+			{
+				"industry":"TAC Floor CO-SISAL Spinning Unit"
+			}
+        
+            ],
+
+    "Ooty":[
+            
+			{
+				"industry":"Hindstan Phito films"
+			},
+			{
+				"industry":"Doddabetta Tea factory"
+			},
+		
+			{
+				"industry":"Pallivasal Hydro Electric Project"
+			}
+    
+            ],
+
+    "Coonoor":[
+            {
+				"industry":"Tansi watch assembling unit"
+			},
+			{
+				"industry":"Needle Industries (India) Pvt Ltd"
+			},
+			{
+				"industry":"Nilgiris District Co-operative milk Producers Union Ltd"
+			},
+            {
+				"industry":"Kateri Hydro-electric"
+			}
+        
+            ],
+
+    "Kodaikkanal":[
+			{
+				"industry":"Kodai dairy product"
+			},
+            
+			{
+				"industry":"Soundara raja mills(DGL)"
+			}
+        
+            ],
+
+
+    "Alappuzha":[
+			{
+				"industry":"Keltron Controls"
+			},
+			{
+				"industry":"Central products dairy"
+			}
+        
+            ],
+
+    "Trivandrum":[
+            {
+				"industry":"Keltron"
+			},
+            {
+				"industry":"HLL Lifecare Ltd"
+			},
+			{
+				"industry":"ITC Infotech India Ltd"
+			},
+			{
+				"industry":"Thiruvananthapuram Dairy"
+			},
+            {
+				"industry":"Infosys"
+			},
+			{
+				"industry":"TCS"
+			},
+			{
+				"industry":"HCL"
+			}    
+            ],
+    
+    "Cochin":[
+			{
+				"industry":"Indian Rare Earths Ltd"
+			},
+			{
+				"industry":"Tac Floor Co-SISAL Spinning Unit"
+			}
+        
+            ],
+
+     "Wayanad":[
+			{
+				"industry":"Harrisons Malayalam Tea factory"
+			},
+			{
+				"industry":"Regional Agricultural Research Station"
+			}
+        
+            ],
+
+    "Munnar":[
+            {
+				"industry":"Pallivasal Hydro Electric Project"
+			},
+			{
+				"industry":"Eastern condiments Pvt.Ltd"
+			},
+			{
+				"industry":"Kolukkumali Tea Factory"
+			},
+            {
+				"industry":"Kanan Devan Hills Plantations Companypvt.Ltd"
+			}
+        
+            ],
+
+    "Bangalore":[
+            {
+				"industry":"BEL (Bharat Electronics Limited)"
+			},
+			{
+				"industry":"HAL (Hindustan Aeronautics Limited)"
+			},
+			{
+				"industry":"NAL (National Aerospace Laboratory)"
+			},
+            {
+				"industry":"BHEL(Bharat Heavy Electricals Limited)"
+			},
+            {
+				"industry":"BEML(Bharat Earth Movers Limited)"
+			},
+            {
+				"industry":"HMT  (Formerly Hindustan Machine Tools)"
+			}
+        
+            ],
+    
+    "Mysore":[
+            {
+				"industry":"Infosys Mysore"
+			},
+			{
+				"industry":"Falcon Tyres"
+			},
+			{
+				"industry":"Government silk weaving"
+			},
+            {
+				"industry":"sandalwood factory"
+			}
+        
+            ],
+    
+    "coorg/Kodagu":[
+            {
+				"industry":"Chettali Orange & Coffee Research Station"
+			},
+			{
+				"industry":"Tata Coffee Plantations"
+			},
+			{
+				"industry":"Kudige nandini dairy"
+			},
+            {
+				"industry":"Harangi /hydro Power Project"
+			}
+        
+            ],
+    
+    "Pattadakkal":[
+            {
+				"industry":"Ceramic Industries"
+			},
+			{
+				"industry":"Bangalkot Cement & Industries Ltd"
+			},
+			{
+				"industry":"Bangalkot Co-operative Spinning Mills Ltd"
+			},
+            {
+				"industry":"Banhatti Co-operative Spinning Mills"
+			},
+            {
+				"industry":"Dempo diary Industries"
+			}
+        
+            ],
+    
+    "Hampi/Mangalore":[
+            {
+                "industry":""
+            }
+            ],
+    
+    "Andhra":[
+            {
+				"industry":"Vizak - N.T.P.C"
+			},
+			{
+				"industry":"Hidusthan Shipyard"
+			},
+			{
+				"industry":"Visakhapatnam Steel Plant"
+			},
+            {
+				"industry":"Hidustan Petroleum Corporation Ltd"
+			}
+        
+            ],
+    
+    "Telengana":[
+            {
+				"industry":"Blue Star Ltd"
+			},
+			{
+				"industry":"Coromandel Fertilizers Ltd"
+			},
+			{
+				"industry":"Bharat Heavy Electricals Ltd"
+			}
+        
+            ],
+    
+    "Mumbai":[
+            {
+				"industry":"Camlin Ltd"
+			},
+			{
+				"industry":"Parle Products pvt ltd"
+			},
+			{
+				"industry":"Hindustan Pencils,pvt.limited"
+			},
+            {
+				"industry":"Mahindra Mahindra-Farm equipment/Lonavala Finolex Industries Ltd"
+			},
+            {
+				"industry":"Tata Hydro Electric Power project"
+			}
+        
+            ],
+    
+    "Pune":[
+            {
+				"industry":"Pune dairy"
+			},
+			{
+				"industry":"Tata Motors"
+			},
+			{
+				"industry":"Mahimdra and Mahindra"
+			},
+            {
+				"industry":"Kirloskar oil Engines Ltd"
+			}
+        
+            ],
+    
+    "Delhi":[
+            {
+                "industry":""
+            }
+            ],
+    
+    "Jodhpur":[
+            {
+				"industry":"Raji laxmi steel Industries"
+			},
+			{
+				"industry":"Graslim Industries Ltd"
+			},
+			{
+				"industry":"Stainless India Ltd"
+			},
+            {
+				"industry":"Iscon surgicals Ltd"
+			}
+        
+            ],
+    
+    "Jaipur":[
+            {
+				"industry":"Hindustan Coca Cola Beverage Pvt ltd"
+			},
+			{
+				"industry":"Infosys"
+			},
+			{
+				"industry":"Wipro Info tech"
+			},
+            {
+				"industry":"Auto tech"
+			}
+        
+            ],
+    
+    "Jaisalmer":[
+            {
+				"industry":"Bhoruka Power Corporation ltd"
+			},
+			{
+				"industry":"Wind farm at village Badabah"
+			}
+            ],
+    
+    
+    "Udaipur":[
+            {
+				"industry":"Udaipur Phospates and Fertilizers"
+			},
+			{
+				"industry":"Secure Meters"
+			},
+			{
+				"industry":"Hindustan Zinc Ltd"
+			},
+            {
+				"industry":"Rajasthan Petro Synthesis"
+			}
+        
+            ],
+    
+    
+    "Amritsar":[
+            {
+				"industry":"Khasa Sistellery Co."
+			}
+            ],
+        
+    "Ludhiana":[
+            {
+				"industry":"Hero Cycles Ltd"
+			},
+			{
+				"industry":"Avon Cycles"
+			},
+			{
+				"industry":"Malwa Industries Ltd"
+			},
+            {
+				"industry":"Nahar Group of Industries"
+			}
+        
+            ],
+    
+        
+    "Goa":[
+			{
+				"industry":"Goa Shipyard Limited "
+			},
+			{
+				"industry":"Kodak India Limited"
+			},
+            {
+                "industry":"MRF Crompton Greaves Ltd"
+            },
+            {
+                "industry":"United Beverages Limited"
+            },
+            {
+                "industry":"Impala Distillery &Brewery Ltd"
+            },
+            {
+                "industry":"Goa state cooperative milk Producers union ltd"
+            },
+            {
+                "industry":"Automobile Corporation Goa Ltd"
+            },
+            {
+                "industry":"Ranbaxy"
+            }
+            
+		],
+    
+    "Shimla":[
+            {
+				"industry":"TVS"
+			},
+            {
+                "industry":"Colgate"
+            },
+            {
+                "industry":"Palmolive"
+            },
+            {
+                "industry":"Procter and Gamble"
+            },
+            {
+                "industry":"HindustanUnilever"
+            },
+            {
+                "industry":"Cadburys"
+            },
+            {
+                "industry":"Johnson & Jhonson"
+            }
+    ],
+    
+    "Kullu":[
+            {
+				"industry":"Catch Mineral water Plant"
+			},
+			{
+				"industry":"Weavers Co-operative Society Ltd"
+			}
+            ],
+    
+    "Manali":[
+            {
+				"industry":" Malana Power project"
+			},
+			{
+				"industry":"Indian Agricultural Research Institute"
+			}
+            ],
+    
+    "Agra":[
+            {
+				"industry":"Romsons International"
+			},
+			{
+				"industry":"Dawar Group"
+			},
+			{
+				"industry":"Tej Shoe Tech"
+			},
+            {
+				"industry":"Prakash Diesels Pvt.Ltd"
+			}
+        
+            ],
+    
+    "Lucknow":[
+            {
+				"industry":"Hindustan Aeronautics Ltd"
+			},
+			{
+				"industry":"Everyday IND India Ltd"
+			},
+			{
+				"industry":"Tata Motors"
+			},
+            {
+				"industry":"PTC Industries Ltd"
+			}
+        
+            ],
+    
+    "Varanasi":[
+            {
+				"industry":"Diesel Locomotive Works"
+			},
+			{
+				"industry":"Bharat Pumps & Compressors"
+			},
+			{
+				"industry":"ITI Limited"
+			},
+            {
+				"industry":"Hind Cables"
+			}
+        
+            ],
+    
+    "Patna":[
+            {
+				"industry":"Bata India Ltd"
+			},
+			{
+				"industry":"United Beverage Ltd"
+			},
+			{
+				"industry":"Patna Co-operative Dairy"
+			},
+            {
+				"industry":"Shree Baidyanath Ayurved Pvt.Ltd"
+			}
+        
+            ],
+    
+    "Kolkata":[
+            {
+				"industry":"Dabur India Ltd"
+			},
+			{
+				"industry":"Berger Lewis India"
+			},
+			{
+				"industry":"United Spirits Limited"
+			},
+            {
+				"industry":"Braithwaite & co ,Ltd"
+			}
+        
+            ],
+    
+    "Bhopal":[
+            {
+				"industry":"BHEL"
+			},
+			{
+				"industry":"Anand Spinning Mills"
+			},
+			{
+				"industry":"Venkatesh Beverages Ltd"
+			},
+            {
+				"industry":"Hindustan Electro graphite"
+			}
+        
+            ],
+    
+    "Allahabad":[
+            {
+				"industry":"Diesel Locomotive Works"
+			},
+			{
+				"industry":"Areva T&D"
+			},
+			{
+				"industry":"BHEL-HERP"
+			},
+            {
+				"industry":"Bharat Pumps & Compossers"
+			}
+        
+            ],
+    
+    
+    "Gulmarg ":[
+            {
+				"industry":"Jammu & Kashmir Group of Industries"
+			},
+			{
+				"industry":"Jammu & Kashmir Industries Ltd"
+			}
+            ],
+    "Andhaman":[
+                {
+                    "industry":""
+                }
+            ]
+    
+    
+}
